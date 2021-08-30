@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsimm023
+- 👋 Hi, I’m Bryan
 - 👀 I’m interested in everything about computers
 - 🌱 I’m currently learning Operating Systems, Advanced UNIX programming, Algorithm Techniques, Software Engineering, and Agile Scrum methodology. 
 - 💞️ I’m looking to collaborate with my agile scrum teams
